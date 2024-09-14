@@ -26,8 +26,10 @@ Waterfall works best for projects with well-defined, stable requirements and min
 Quality Assurance (QA) focuses on creating and maintaining processes and procedures that ensure a product's overall quality. It includes activities that promote compliance with standards and best practices throughout the software development lifecycle. Maintaining high standards is important for preventing defects and enhancing the development process.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining the project scope is essential for successful project planning as it helps identify all necessary tasks to achieve the project goals. It also aids in scheduling tasks, setting deliverables, and establishing an accurate budget. A Work Breakdown Structure (WBS) divides a large project into smaller, manageable components. This structure makes it easier for teams to understand the scope, estimate costs, track deliverables, and assign tasks based on team members' expertise.
 
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+A detailed project schedule boosts productivity and time management by allowing managers to track progress, allocate resources, and meet deadlines. Gantt charts support this by visually displaying timelines, task durations, and dependencies, enabling better milestone tracking and resource allocation.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
 South African farmers face the challenge of limited access to timely and accurate agricultural advisory, hindering their productivity and overall success. With inefficient information dissemination, farmers struggle to make informed decisions for crop management, pest control, and maximizing yields. Our software aims to revolutionize agricultural advisory services, providing farmers with personalized, data-driven insights to optimize their farming practices and ultimately enhance their livelihoods.
@@ -47,3 +49,4 @@ Our software solution empowers South African farmers by delivering personalized,
 South Africa has over 32,000 commercial farmers and around 2 million small-scale and emerging farmers. Access to data-driven insights can greatly benefit both groups, indicating a substantial user base for the software. The increasing penetration of mobile phones and internet connectivity among rural communities shows a growing acceptance of digital solutions. South Africa’s mobile internet penetration is forecasted to reach 80% by 2025, supporting the growth potential for software platforms targeting farmers.
 
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends can play a crucial role in shaping your software’s positioning and development by identifying key areas of demand, technological advancements, and emerging challenges within the agricultural sector.
